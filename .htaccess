@@ -1,0 +1,2 @@
+RewriteEngine On RewriteBase /
+RewriteRule ^(.*)$ https://gxpixamo.carrd.co [L,R=301,NC
